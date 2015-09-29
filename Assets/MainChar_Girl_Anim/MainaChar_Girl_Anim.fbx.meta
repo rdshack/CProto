@@ -1,0 +1,1910 @@
+fileFormatVersion: 2
+guid: 1517ae107638b3940a39fdf98526d758
+timeCreated: 1436524508
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: blade_preload_Line002
+    100002: Chest
+    100004: Hair1
+    100006: Hair2
+    100008: Hair3
+    100010: Hair4
+    100012: Head
+    100014: Hips
+    100016: LeftArm
+    100018: LeftElbow
+    100020: LeftFoot
+    100022: LeftHand
+    100024: LeftHandWeapon
+    100026: LeftHip
+    100028: LeftIndex1
+    100030: LeftIndex2
+    100032: LeftIndex3
+    100034: LeftKnee
+    100036: LeftMiddle1
+    100038: LeftMiddle2
+    100040: LeftMiddle3
+    100042: LeftPinky1
+    100044: LeftPinky2
+    100046: LeftPinky3
+    100048: LeftShoulder
+    100050: LeftThumb1
+    100052: LeftThumb2
+    100054: LeftThumb3
+    100056: LeftToe
+    100058: //RootNode
+    100060: MainChar_Girl
+    100062: MainChar_Girl_Hair
+    100064: MainChar_Girl_RigScale
+    100066: MainChar_Girl_RootMotion
+    100068: Neck
+    100070: RightArm
+    100072: RightElbow
+    100074: RightFoot
+    100076: RightHand
+    100078: RightHandWeapon
+    100080: RightHip
+    100082: RightIndex1
+    100084: RightIndex2
+    100086: RightIndex3
+    100088: RightKnee
+    100090: RightMiddle1
+    100092: RightMiddle2
+    100094: RightMiddle3
+    100096: RightPinky1
+    100098: RightPinky2
+    100100: RightPinky3
+    100102: RightShoulder
+    100104: RightThumb1
+    100106: RightThumb2
+    100108: RightThumb3
+    100110: RightToe
+    100112: Spine
+    100114: SpineMiddle
+    400000: blade_preload_Line002
+    400002: Chest
+    400004: Hair1
+    400006: Hair2
+    400008: Hair3
+    400010: Hair4
+    400012: Head
+    400014: Hips
+    400016: LeftArm
+    400018: LeftElbow
+    400020: LeftFoot
+    400022: LeftHand
+    400024: LeftHandWeapon
+    400026: LeftHip
+    400028: LeftIndex1
+    400030: LeftIndex2
+    400032: LeftIndex3
+    400034: LeftKnee
+    400036: LeftMiddle1
+    400038: LeftMiddle2
+    400040: LeftMiddle3
+    400042: LeftPinky1
+    400044: LeftPinky2
+    400046: LeftPinky3
+    400048: LeftShoulder
+    400050: LeftThumb1
+    400052: LeftThumb2
+    400054: LeftThumb3
+    400056: LeftToe
+    400058: //RootNode
+    400060: MainChar_Girl
+    400062: MainChar_Girl_Hair
+    400064: MainChar_Girl_RigScale
+    400066: MainChar_Girl_RootMotion
+    400068: Neck
+    400070: RightArm
+    400072: RightElbow
+    400074: RightFoot
+    400076: RightHand
+    400078: RightHandWeapon
+    400080: RightHip
+    400082: RightIndex1
+    400084: RightIndex2
+    400086: RightIndex3
+    400088: RightKnee
+    400090: RightMiddle1
+    400092: RightMiddle2
+    400094: RightMiddle3
+    400096: RightPinky1
+    400098: RightPinky2
+    400100: RightPinky3
+    400102: RightShoulder
+    400104: RightThumb1
+    400106: RightThumb2
+    400108: RightThumb3
+    400110: RightToe
+    400112: Spine
+    400114: SpineMiddle
+    2300000: blade_preload_Line002
+    3300000: blade_preload_Line002
+    4300000: MainChar_Girl
+    4300002: MainChar_Girl_Hair
+    4300004: blade_preload_Line002
+    7400000: Take 001
+    7400002: Run
+    7400004: Jump_Start
+    7400006: Jump_Loop
+    7400008: Jump_End
+    7400010: Block
+    7400012: Idle
+    7400014: OnHit_1
+    7400016: OnHit_2
+    7400018: Disabled
+    7400020: Death
+    7400022: Dash
+    7400024: TestAnim
+    9500000: //RootNode
+    13700000: MainChar_Girl
+    13700002: MainChar_Girl_Hair
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 687
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MainChar_Girl
+        weight: 1
+      - path: MainChar_Girl_Hair
+        weight: 1
+      - path: MainChar_Girl_RigScale
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2/LeftIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2/LeftMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2/LeftPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2/LeftThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair4
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon/blade_preload_Line002
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2/RightIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2/RightMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2/RightPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2/RightThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/MainChar_Girl_RootMotion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MainChar_Girl
+        weight: 1
+      - path: MainChar_Girl_Hair
+        weight: 1
+      - path: MainChar_Girl_RigScale
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2/LeftIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2/LeftMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2/LeftPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2/LeftThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair4
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon/blade_preload_Line002
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2/RightIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2/RightMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2/RightPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2/RightThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/MainChar_Girl_RootMotion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump_Start
+      takeName: Take 001
+      firstFrame: 210
+      lastFrame: 227
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MainChar_Girl
+        weight: 1
+      - path: MainChar_Girl_Hair
+        weight: 1
+      - path: MainChar_Girl_RigScale
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2/LeftIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2/LeftMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2/LeftPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2/LeftThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair4
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon/blade_preload_Line002
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2/RightIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2/RightMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2/RightPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2/RightThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/MainChar_Girl_RootMotion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump_Loop
+      takeName: Take 001
+      firstFrame: 227
+      lastFrame: 257
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MainChar_Girl
+        weight: 1
+      - path: MainChar_Girl_Hair
+        weight: 1
+      - path: MainChar_Girl_RigScale
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2/LeftIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2/LeftMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2/LeftPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2/LeftThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair4
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon/blade_preload_Line002
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2/RightIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2/RightMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2/RightPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2/RightThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/MainChar_Girl_RootMotion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump_End
+      takeName: Take 001
+      firstFrame: 257
+      lastFrame: 275
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MainChar_Girl
+        weight: 1
+      - path: MainChar_Girl_Hair
+        weight: 1
+      - path: MainChar_Girl_RigScale
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2/LeftIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2/LeftMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2/LeftPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2/LeftThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair4
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon/blade_preload_Line002
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2/RightIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2/RightMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2/RightPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2/RightThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/MainChar_Girl_RootMotion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Block
+      takeName: Take 001
+      firstFrame: 300
+      lastFrame: 330
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MainChar_Girl
+        weight: 1
+      - path: MainChar_Girl_Hair
+        weight: 1
+      - path: MainChar_Girl_RigScale
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2/LeftIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2/LeftMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2/LeftPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2/LeftThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair4
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon/blade_preload_Line002
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2/RightIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2/RightMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2/RightPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2/RightThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/MainChar_Girl_RootMotion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 350
+      lastFrame: 380
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MainChar_Girl
+        weight: 1
+      - path: MainChar_Girl_Hair
+        weight: 1
+      - path: MainChar_Girl_RigScale
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2/LeftIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2/LeftMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2/LeftPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2/LeftThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair4
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon/blade_preload_Line002
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2/RightIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2/RightMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2/RightPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2/RightThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/MainChar_Girl_RootMotion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: OnHit_1
+      takeName: Take 001
+      firstFrame: 400
+      lastFrame: 415
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MainChar_Girl
+        weight: 1
+      - path: MainChar_Girl_Hair
+        weight: 1
+      - path: MainChar_Girl_RigScale
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2/LeftIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2/LeftMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2/LeftPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2/LeftThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair4
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon/blade_preload_Line002
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2/RightIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2/RightMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2/RightPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2/RightThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/MainChar_Girl_RootMotion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: OnHit_2
+      takeName: Take 001
+      firstFrame: 430
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MainChar_Girl
+        weight: 1
+      - path: MainChar_Girl_Hair
+        weight: 1
+      - path: MainChar_Girl_RigScale
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2/LeftIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2/LeftMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2/LeftPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2/LeftThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair4
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon/blade_preload_Line002
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2/RightIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2/RightMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2/RightPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2/RightThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/MainChar_Girl_RootMotion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Disabled
+      takeName: Take 001
+      firstFrame: 470
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MainChar_Girl
+        weight: 1
+      - path: MainChar_Girl_Hair
+        weight: 1
+      - path: MainChar_Girl_RigScale
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2/LeftIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2/LeftMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2/LeftPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2/LeftThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair4
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon/blade_preload_Line002
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2/RightIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2/RightMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2/RightPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2/RightThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/MainChar_Girl_RootMotion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 540
+      lastFrame: 586
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MainChar_Girl
+        weight: 1
+      - path: MainChar_Girl_Hair
+        weight: 1
+      - path: MainChar_Girl_RigScale
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2/LeftIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2/LeftMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2/LeftPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2/LeftThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair4
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon/blade_preload_Line002
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2/RightIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2/RightMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2/RightPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2/RightThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/MainChar_Girl_RootMotion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Dash
+      takeName: Take 001
+      firstFrame: 630
+      lastFrame: 660
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MainChar_Girl
+        weight: 1
+      - path: MainChar_Girl_Hair
+        weight: 1
+      - path: MainChar_Girl_RigScale
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/LeftHip/LeftKnee/LeftFoot/LeftToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/RightHip/RightKnee/RightFoot/RightToe
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftIndex1/LeftIndex2/LeftIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftMiddle1/LeftMiddle2/LeftMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftPinky1/LeftPinky2/LeftPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/LeftShoulder/LeftArm/LeftElbow/LeftHand/LeftThumb1/LeftThumb2/LeftThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/Neck/Head/Hair4
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightHandWeapon/blade_preload_Line002
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightIndex1/RightIndex2/RightIndex3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightMiddle1/RightMiddle2/RightMiddle3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightPinky1/RightPinky2/RightPinky3
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2
+        weight: 1
+      - path: MainChar_Girl_RigScale/Hips/Spine/SpineMiddle/Chest/RightShoulder/RightArm/RightElbow/RightHand/RightThumb1/RightThumb2/RightThumb3
+        weight: 1
+      - path: MainChar_Girl_RigScale/MainChar_Girl_RootMotion
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: MainChar_Girl_RootMotion
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
